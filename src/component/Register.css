@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: white;
+    height: 619px;
+    width: 40%;
+}
+
+.button {
+    height: 50px;
+    width: 100%;
+   
+}
